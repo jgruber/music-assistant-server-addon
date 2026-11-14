@@ -1,5 +1,5 @@
 name: Music Assistant Server (jgruber fork)
-version: 2.10.12-fork.2
+version: 2.11.0.dev2026111403-fork.1
 slug: music_assistant_anon
 description: >
   Music Assistant server with a HACS-style custom-providers loader (soft
